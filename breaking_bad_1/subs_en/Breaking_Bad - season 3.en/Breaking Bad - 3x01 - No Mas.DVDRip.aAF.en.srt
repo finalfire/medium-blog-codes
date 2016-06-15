@@ -1,0 +1,1904 @@
+1
+00:04:04,160 --> 00:04:07,391
+<i>We interrupt scheduled programming</i>
+<i>to bring you this breaking news.</i>
+
+2
+00:04:07,560 --> 00:04:09,630
+<i>Good afternoon.</i>
+<i>In the last several minutes...</i>
+
+3
+00:04:09,800 --> 00:04:11,836
+<i>...KOB has received</i>
+<i>dozens of reports...</i>
+
+4
+00:04:12,000 --> 00:04:15,356
+<i>...of what appears to be a crashed</i>
+<i>aircraft, possibly two aircraft...</i>
+
+5
+00:04:15,520 --> 00:04:17,238
+<i>...on Albuquerque's east side.</i>
+
+6
+00:04:17,400 --> 00:04:18,958
+<i>As of yet details are scarce...</i>
+
+7
+00:04:19,120 --> 00:04:22,032
+<i>...but callers describe witnessing</i>
+<i>an explosion overhead...</i>
+
+8
+00:04:22,200 --> 00:04:24,191
+<i>...followed by falling debris.</i>
+<i>Visible now...</i>
+
+9
+00:04:24,360 --> 00:04:27,591
+<i>- Crash investigators with the</i>
+<i>National Transportation Safety Board...</i>
+
+10
+00:04:27,760 --> 00:04:30,479
+<i>...are expected on site</i>
+<i>as early as this evening.</i>
+
+11
+00:04:30,640 --> 00:04:34,428
+<i>But officials warn that with a debris field</i>
+<i>of this magnitude, the investigation...</i>
+
+12
+00:04:34,600 --> 00:04:37,194
+<i>Officials are now saying</i>
+<i>that the Boeing 737...</i>
+
+13
+00:04:37,360 --> 00:04:40,557
+<i>...was being re-routed,</i>
+<i>or vectored, through the airspace...</i>
+
+14
+00:04:40,720 --> 00:04:43,871
+<i>...which is standard procedure</i>
+<i>according to a spok esman for the FAA.</i>
+
+15
+00:04:44,040 --> 00:04:47,237
+<i>The eight-seat King Air 350</i>
+<i>was a charter flight...</i>
+
+16
+00:04:47,400 --> 00:04:51,473
+<i>...operating out of St. George, Utah,</i>
+<i>bound for Amarillo, Texas.</i>
+
+17
+00:04:51,640 --> 00:04:54,598
+<i>It sounded lik e hail,</i>
+<i>lik e heavy hailstones.</i>
+
+18
+00:04:54,760 --> 00:04:59,515
+<i>It was just bump-bump-bump,</i>
+<i>all over the neighbourhood...</i>
+
+19
+00:04:59,680 --> 00:05:04,151
+<i>- Indicating that the final death toll</i>
+<i>now stands at 167.</i>
+
+20
+00:05:06,560 --> 00:05:07,959
+<i>- One hundred and sixty-seven.</i>
+
+21
+00:05:08,120 --> 00:05:10,350
+<i>This mid-air collision</i>
+<i>has left many wondering...</i>
+
+22
+00:05:10,520 --> 00:05:14,149
+<i>...how such an accident could tak e place</i>
+<i>in a system with so many safeguards.</i>
+
+23
+00:05:14,320 --> 00:05:16,709
+<i>- That the collision</i>
+<i>which brought down Flight 515...</i>
+
+24
+00:05:16,880 --> 00:05:20,190
+<i>...was caused</i>
+<i>by improper air traffic control.</i>
+
+25
+00:05:20,360 --> 00:05:23,113
+<i>We have the bombshell confirmation</i>
+<i>out of Oklahoma City...</i>
+
+26
+00:05:23,280 --> 00:05:24,474
+<i>...as the FAA confirmed...</i>
+
+27
+00:05:24,640 --> 00:05:28,394
+<i>...it was indeed a lone</i>
+<i>air traffic controller's fateful mistak e...</i>
+
+28
+00:05:28,560 --> 00:05:30,118
+<i>...which brought about the crash.</i>
+
+29
+00:05:30,920 --> 00:05:33,832
+<i>- Is Donald Margolis,</i>
+<i>a 19-year veteran...</i>
+
+30
+00:05:34,000 --> 00:05:37,959
+<i>...of the FAA's Air Route Traffic</i>
+<i>Control Center in Albuquerque...</i>
+
+31
+00:05:38,120 --> 00:05:41,669
+<i>- Margolis recently returned to work</i>
+<i>after a five-week absence...</i>
+
+32
+00:05:41,840 --> 00:05:44,035
+<i>...which was due to, quote,</i>
+<i>"a personal loss".</i>
+
+33
+00:05:44,200 --> 00:05:47,954
+<i>While it's now known that Margolis</i>
+<i>had recently lost a daughter to a...</i>
+
+34
+00:05:48,120 --> 00:05:49,553
+<i>- Drug overdose a month before.</i>
+
+35
+00:05:49,720 --> 00:05:52,439
+<i>His troubled daughter Jane Margolis,</i>
+<i>aged 26...</i>
+
+36
+00:05:52,600 --> 00:05:55,512
+<i>...apparently had a long history</i>
+<i>of substance abuse.</i>
+
+37
+00:05:55,680 --> 00:05:56,954
+<i>Friends of the family say...</i>
+
+38
+00:05:57,120 --> 00:05:59,998
+<i>...the death of his only child</i>
+<i>hit Margolis particularly hard.</i>
+
+39
+00:06:01,440 --> 00:06:03,795
+<i>Coming as it did</i>
+<i>little more than a month before...</i>
+
+40
+00:06:03,960 --> 00:06:06,713
+<i>...many are questioning</i>
+<i>the timing of his return to work...</i>
+
+41
+00:06:06,880 --> 00:06:09,110
+<i>...and are wondering</i>
+<i>how much blame truly lies...</i>
+
+42
+00:06:09,280 --> 00:06:11,430
+<i>...with those</i>
+<i>who let this grieving father...</i>
+
+43
+00:07:59,640 --> 00:08:02,359
+I usually open with
+"So sorry you're here".
+
+44
+00:08:02,520 --> 00:08:04,556
+Where would you like to begin?
+
+45
+00:08:04,720 --> 00:08:07,678
+I really just need this quick and easy,
+you know?
+
+46
+00:08:07,840 --> 00:08:12,470
+As quick as something like this
+can be. So...
+
+47
+00:08:12,640 --> 00:08:17,873
+Okay. Is that mutual?
+Does your husband go along with that?
+
+48
+00:08:19,040 --> 00:08:20,189
+Does he know?
+
+49
+00:08:20,360 --> 00:08:23,989
+Well, I mean, he certainly knows
+we're separated, so...
+
+50
+00:08:24,160 --> 00:08:25,559
+Has he moved out?
+
+51
+00:08:25,720 --> 00:08:27,756
+We're in the process
+of moving him out.
+
+52
+00:08:27,920 --> 00:08:29,069
+Yeah. Today, hopefully.
+
+53
+00:08:29,240 --> 00:08:33,074
+And in the meantime,
+my son and my daughter...
+
+54
+00:08:33,240 --> 00:08:34,912
+...and I are staying with my sister.
+
+55
+00:08:35,080 --> 00:08:38,629
+- So you've moved out?
+- Well, yes, just temporarily.
+
+56
+00:08:38,800 --> 00:08:40,995
+Only so he could
+get his things and...
+
+57
+00:08:41,160 --> 00:08:44,948
+That was supposed to happen last week,
+but then came the crash and...
+
+58
+00:08:45,120 --> 00:08:46,917
+Oh, God, you weren't one of the...?
+
+59
+00:08:47,080 --> 00:08:49,878
+Right, yeah.
+Right beneath the flight path.
+
+60
+00:08:50,040 --> 00:08:56,149
+And we had debris land in our yard,
+and all over our neighbourhood, so...
+
+61
+00:08:56,320 --> 00:08:59,039
+- Terrible.
+- Yeah. Apparently, even...
+
+62
+00:08:59,200 --> 00:09:02,033
+...you know, parts of bodies.
+
+63
+00:09:02,200 --> 00:09:06,671
+So I certainly couldn't
+bring myself to...
+
+64
+00:09:06,840 --> 00:09:08,751
+- So awful.
+- I know.
+
+65
+00:09:08,920 --> 00:09:12,117
+Anyway, I was certainly not ready
+to move back. But it's time.
+
+66
+00:09:12,280 --> 00:09:16,990
+And I'm sure we're driving
+my sister and her husband up a wall.
+
+67
+00:09:17,160 --> 00:09:20,630
+Well, you definitely wanna maintain
+residency in your actual home.
+
+68
+00:09:20,800 --> 00:09:24,349
+It just puts you in a better position
+in regards to custody.
+
+69
+00:09:24,520 --> 00:09:25,714
+Two children, you said?
+
+70
+00:09:25,880 --> 00:09:32,399
+Yes. Holly here, and then I have a son
+in high school, Walter Jr.
+
+71
+00:09:34,120 --> 00:09:37,510
+- They need to stay with me.
+- Okay.
+
+72
+00:09:37,680 --> 00:09:40,638
+- How long have you been married?
+- Sixteen years.
+
+73
+00:09:40,800 --> 00:09:43,394
+And it's not an apartment,
+it's a house that you live in?
+
+74
+00:09:44,320 --> 00:09:46,675
+Do you own outright,
+do you have a mortgage...?
+
+75
+00:09:46,840 --> 00:09:51,595
+Yes, there's definitely a mortgage.
+We have maybe 15 years on it.
+
+76
+00:09:51,760 --> 00:09:54,513
+What about other debts or assets?
+
+77
+00:09:54,680 --> 00:09:56,671
+Do you feel
+you have a good understanding...
+
+78
+00:09:56,840 --> 00:09:59,070
+...of you and your husband's
+financial situation?
+
+79
+00:10:02,880 --> 00:10:05,155
+- Is your husband employed?
+- Here's the thing.
+
+80
+00:10:05,320 --> 00:10:09,393
+I'm really not looking
+for any sort of loopholes...
+
+81
+00:10:09,560 --> 00:10:13,712
+...or I don't know, just...
+- No, no loopholes.
+
+82
+00:10:13,880 --> 00:10:18,078
+I just intend that every one of my clients
+get a full and honest accounting...
+
+83
+00:10:18,240 --> 00:10:22,199
+...of what it is they owe
+and what it is they own.
+
+84
+00:10:22,360 --> 00:10:26,194
+To that end,
+I say let's leave no stone unturned.
+
+85
+00:10:28,400 --> 00:10:32,188
+You'd be amazed what I've seen
+partners hide from one another.
+
+86
+00:11:01,560 --> 00:11:03,118
+Walt?
+
+87
+00:11:03,960 --> 00:11:05,029
+Hey, buddy?
+
+88
+00:11:16,920 --> 00:11:18,273
+Hey, Walt?
+
+89
+00:11:19,440 --> 00:11:20,555
+- Hey.
+- There you are.
+
+90
+00:11:20,720 --> 00:11:23,518
+Listen, I... You know, well...
+
+91
+00:11:24,120 --> 00:11:25,872
+It's...
+
+92
+00:11:26,320 --> 00:11:27,833
+It's time.
+
+93
+00:11:33,320 --> 00:11:35,880
+The shittiest week since 9<i>l</i>11, okay?
+Bar none.
+
+94
+00:11:36,040 --> 00:11:37,917
+This is it.
+Hands down, we're living it.
+
+95
+00:11:38,080 --> 00:11:39,229
+I speak with authority...
+
+96
+00:11:39,400 --> 00:11:41,994
+...because we had some shitty weeks
+the past few months.
+
+97
+00:11:42,160 --> 00:11:43,354
+But this here? I mean...
+
+98
+00:11:43,520 --> 00:11:46,557
+...call freaking Guinness Book
+of World Records, call freaking...
+
+99
+00:11:46,720 --> 00:11:48,950
+Am I talking too much?
+I am, right? I am, I know.
+
+100
+00:11:49,120 --> 00:11:52,954
+But this situation between you and...
+You know, I don't know.
+
+101
+00:11:53,120 --> 00:11:55,509
+I'm not asking, by the way.
+It's none of my business.
+
+102
+00:11:55,680 --> 00:11:57,671
+I do not wanna get
+in the middle of you two.
+
+103
+00:11:57,840 --> 00:11:59,592
+I'm just saying, listen, okay?
+
+104
+00:11:59,760 --> 00:12:02,035
+You beat a little tactical retreat...
+
+105
+00:12:02,200 --> 00:12:05,476
+...you regroup, and then:
+
+106
+00:12:05,640 --> 00:12:10,634
+You know, absence makes the...
+Yeah.
+
+107
+00:12:14,680 --> 00:12:17,558
+I'm pulling for you, man.
+I'm pulling for you.
+
+108
+00:12:23,600 --> 00:12:25,830
+- No heavy lifting. I got it.
+- No, it's okay.
+
+109
+00:12:26,000 --> 00:12:27,797
+I got it.
+
+110
+00:12:27,960 --> 00:12:31,714
+Jesus. What do you got in there,
+cinder blocks?
+
+111
+00:12:34,840 --> 00:12:37,149
+Half a million in cash.
+
+112
+00:12:42,440 --> 00:12:44,396
+That's the spirit.
+
+113
+00:12:47,640 --> 00:12:49,676
+I got it, I got it.
+
+114
+00:13:10,080 --> 00:13:12,036
+<i>Who's here for self-improvement?</i>
+
+115
+00:13:13,680 --> 00:13:16,274
+Come on, give me a show of hands.
+
+116
+00:13:16,880 --> 00:13:23,194
+Who among you is here hoping they
+can actively improve who they are?
+
+117
+00:13:27,280 --> 00:13:31,796
+All right. See, that's your first mistake.
+
+118
+00:13:31,960 --> 00:13:35,316
+You should be here
+to learn self-acceptance.
+
+119
+00:13:41,760 --> 00:13:44,752
+Hey, honey,
+you want another waffle?
+
+120
+00:13:45,520 --> 00:13:50,469
+I still got the iron out.
+I could cut up some bananas.
+
+121
+00:13:51,840 --> 00:13:56,470
+<i>Hi, you've reached Walt, Skyler, Flynn</i>
+<i>and Holly. Please leave us a message.</i>
+
+122
+00:13:57,480 --> 00:13:59,755
+<i>Hey. Hello, everybody.</i>
+<i>Good morning.</i>
+
+123
+00:13:59,920 --> 00:14:01,273
+<i>I was just checking in...</i>
+
+124
+00:14:01,440 --> 00:14:04,876
+<i>...and thought I'd pass along</i>
+<i>the current contact information.</i>
+
+125
+00:14:05,040 --> 00:14:07,235
+<i>You certainly</i>
+<i>can always reach me on my cell...</i>
+
+126
+00:14:07,400 --> 00:14:11,393
+<i>...I've always got that on me,</i>
+<i>but in terms of a mailing address...</i>
+
+127
+00:14:11,560 --> 00:14:13,551
+<i>...I'm here at the Beachcomber...</i>
+
+128
+00:14:13,720 --> 00:14:17,076
+<i>...and you know what,</i>
+<i>it's actually very nice, very pleasant.</i>
+
+129
+00:14:17,240 --> 00:14:19,708
+<i>Not as high-end as the Oakwood,</i>
+<i>but not as corporate...</i>
+
+130
+00:14:19,880 --> 00:14:24,192
+- Oh, hey, would you please just...?
+- Hey, Dad, it's me.
+
+131
+00:14:25,360 --> 00:14:26,429
+No, I'm not okay.
+
+132
+00:14:26,600 --> 00:14:28,192
+I don't know what's going on.
+
+133
+00:14:28,360 --> 00:14:30,237
+Nobody's telling me jackshit
+around here.
+
+134
+00:14:30,400 --> 00:14:32,391
+- Hey, Flynn.
+- Whatever.
+
+135
+00:14:32,560 --> 00:14:34,278
+I don't even care anymore.
+
+136
+00:14:34,440 --> 00:14:36,749
+Can you just give me
+a ride to school?
+
+137
+00:14:36,920 --> 00:14:41,948
+- I'll take you to school.
+- Yeah. No, I'm ready now.
+
+138
+00:14:42,120 --> 00:14:45,157
+Flynn, I'm taking you to school.
+
+139
+00:14:46,040 --> 00:14:50,272
+All right, I'm here. See you soon.
+
+140
+00:15:57,720 --> 00:15:59,358
+Okay.
+
+141
+00:16:07,800 --> 00:16:09,791
+<i>May I have your attention, please?</i>
+
+142
+00:16:09,960 --> 00:16:13,589
+<i>As all of you know, last week</i>
+<i>our city suffered a terrible tragedy.</i>
+
+143
+00:16:13,760 --> 00:16:15,478
+<i>One that none of us will ever forget.</i>
+
+144
+00:16:15,640 --> 00:16:19,189
+<i>Which is why today we're going to</i>
+<i>tak e a little time out of our schedule...</i>
+
+145
+00:16:19,360 --> 00:16:21,874
+<i>...to gather in the gym and talk.</i>
+
+146
+00:16:22,680 --> 00:16:29,279
+I just find it, you know,
+really, really hard to concentrate.
+
+147
+00:16:30,040 --> 00:16:34,830
+Because of all the horrors, you know,
+we perceived.
+
+148
+00:16:35,600 --> 00:16:38,717
+It just really
+gets inside your brain and...
+
+149
+00:16:39,320 --> 00:16:43,757
+In college, they have this thing
+where if your roommate kills himself...
+
+150
+00:16:43,920 --> 00:16:47,515
+...like, if you come home and find him
+hanging in the closet or whatever...
+
+151
+00:16:47,680 --> 00:16:51,434
+...it's basically an automatic A
+for you.
+
+152
+00:16:51,600 --> 00:16:54,990
+And I just think
+that that kind of compassion is...
+
+153
+00:16:55,160 --> 00:16:57,720
+- Is something to...
+- Okay. Thank you, Barry.
+
+154
+00:16:57,880 --> 00:16:59,438
+Who wants to go next?
+
+155
+00:17:02,360 --> 00:17:04,828
+No judgments, guys. Just feelings.
+
+156
+00:17:05,280 --> 00:17:10,400
+You can say anything and everything
+that's on your mind. Anyone?
+
+157
+00:17:14,040 --> 00:17:15,234
+There you go, honey.
+
+158
+00:17:17,200 --> 00:17:19,395
+I just keep asking myself...
+
+159
+00:17:19,560 --> 00:17:22,518
+Honey, could you please stand up?
+
+160
+00:17:24,160 --> 00:17:25,195
+Thank you.
+
+161
+00:17:25,360 --> 00:17:28,716
+I just keep asking myself,
+"Why did this happen?"
+
+162
+00:17:30,320 --> 00:17:32,072
+I mean, if there's a God and all...
+
+163
+00:17:32,240 --> 00:17:35,676
+...why does he allow all those
+innocent people to die for no reason?
+
+164
+00:17:35,840 --> 00:17:38,991
+Okay, can we just keep it secular,
+honey?
+
+165
+00:17:39,160 --> 00:17:42,630
+Anyhow, I haven't
+really been sleeping much.
+
+166
+00:17:43,080 --> 00:17:44,991
+Does anyone... else have that?
+
+167
+00:17:47,400 --> 00:17:50,790
+I just keep hearing that sound.
+
+168
+00:17:51,800 --> 00:17:54,678
+That boom.
+
+169
+00:17:55,480 --> 00:17:59,712
+It just plays over and over in my head
+like it won't ever stop.
+
+170
+00:18:03,600 --> 00:18:05,750
+Thank you, sweetheart.
+
+171
+00:18:05,920 --> 00:18:09,674
+- Is there anyone... else?
+- Over here.
+
+172
+00:18:14,040 --> 00:18:18,113
+My neighbour, he heard the crash...
+
+173
+00:18:18,320 --> 00:18:22,233
+...and he ran outside,
+and he found, like, this seat.
+
+174
+00:18:22,680 --> 00:18:24,398
+Like an airline seat.
+
+175
+00:18:24,560 --> 00:18:26,232
+Like what you have on a airliner?
+
+176
+00:18:26,400 --> 00:18:30,871
+Well, anyway, the seat was standing
+perfectly upright in his front yard...
+
+177
+00:18:31,040 --> 00:18:35,477
+...right next to his Sea-Doos,
+because, like, he has Sea-Doos.
+
+178
+00:18:35,680 --> 00:18:39,912
+But there was still a pair of legs
+buckled into them.
+
+179
+00:18:40,600 --> 00:18:42,272
+Human legs.
+
+180
+00:18:44,040 --> 00:18:45,792
+Jesus H. Christ.
+
+181
+00:18:49,040 --> 00:18:51,600
+- You okay?
+- Yeah, sorry. I'm...
+
+182
+00:18:52,600 --> 00:18:54,795
+I was just moved.
+
+183
+00:18:55,800 --> 00:18:57,791
+Maybe we should hear
+from the faculty.
+
+184
+00:18:57,960 --> 00:19:02,954
+Certainly this tragedy
+didn't only affect our students.
+
+185
+00:19:03,400 --> 00:19:05,960
+Mr. White,
+would you like to say something?
+
+186
+00:19:06,960 --> 00:19:09,952
+And by the way, welcome back.
+
+187
+00:19:19,640 --> 00:19:21,312
+It's so good to have you back.
+
+188
+00:19:36,920 --> 00:19:41,152
+I guess what I would... Sorry, sorry.
+
+189
+00:19:43,920 --> 00:19:47,276
+I guess what I would wanna say is...
+
+190
+00:19:48,360 --> 00:19:52,069
+...to look on the bright side.
+
+191
+00:19:54,680 --> 00:19:57,717
+First of all,
+nobody on the ground was killed.
+
+192
+00:19:57,880 --> 00:19:59,279
+And that...
+
+193
+00:19:59,440 --> 00:20:03,752
+I mean, an incident like this,
+over a populated urban centre?
+
+194
+00:20:03,920 --> 00:20:09,472
+That right there, that's just gotta be
+some minor miracle. So...
+
+195
+00:20:09,640 --> 00:20:12,791
+Plus, neither plane was full.
+
+196
+00:20:12,960 --> 00:20:19,149
+You know, the 737 was, what, maybe
+two-thirds full, I believe? Right, yes?
+
+197
+00:20:19,320 --> 00:20:21,629
+Or maybe... even three-quarters full?
+
+198
+00:20:21,800 --> 00:20:26,157
+Well, at any rate,
+what you're left with casualty-wise...
+
+199
+00:20:26,320 --> 00:20:30,233
+...is just the 50th-worst air disaster.
+
+200
+00:20:30,400 --> 00:20:33,233
+Actually, tied for 50th.
+
+201
+00:20:33,400 --> 00:20:36,119
+There are, in truth...
+
+202
+00:20:36,720 --> 00:20:41,396
+...53 crashes throughout history...
+
+203
+00:20:41,560 --> 00:20:45,678
+...that are just as bad or worse.
+Tenerife.
+
+204
+00:20:45,840 --> 00:20:49,674
+Has anybody...?
+Anybody hear of Tenerife? No?
+
+205
+00:20:50,320 --> 00:20:54,791
+In 1977, two fully loaded 747 s...
+
+206
+00:20:54,960 --> 00:20:57,394
+...crashed into each other on Tenerife.
+
+207
+00:20:58,320 --> 00:21:01,437
+Does anybody know how big
+a 747 is?
+
+208
+00:21:01,600 --> 00:21:05,639
+I mean, it's way bigger than a 737,
+and we're talking about two of them.
+
+209
+00:21:05,800 --> 00:21:09,952
+Nearly 600 people died on Tenerife.
+
+210
+00:21:10,120 --> 00:21:15,513
+But do any of you even remember it
+at all? Any of you? I doubt it.
+
+211
+00:21:15,680 --> 00:21:21,550
+You know why?
+It's because people move on.
+
+212
+00:21:22,560 --> 00:21:23,834
+They just move on.
+
+213
+00:21:24,000 --> 00:21:27,390
+And we will too. We will move on,
+and we will get past this.
+
+214
+00:21:27,560 --> 00:21:34,079
+Because that is what human beings do,
+we survive, and...
+
+215
+00:21:34,880 --> 00:21:39,556
+We survive and we overcome. Yeah.
+
+216
+00:21:40,240 --> 00:21:43,755
+We survive. We survive and...
+
+217
+00:21:43,920 --> 00:21:47,230
+- Okay?
+- Thank you.
+
+218
+00:21:48,120 --> 00:21:49,553
+Good.
+
+219
+00:24:22,040 --> 00:24:24,349
+Hey, how's your Aunt Marie doing?
+
+220
+00:24:25,960 --> 00:24:28,520
+Fine. I guess.
+
+221
+00:24:29,680 --> 00:24:32,114
+You make sure you say hello to her
+for me, will you?
+
+222
+00:24:32,280 --> 00:24:36,114
+Why don't you just come inside?
+It's your house.
+
+223
+00:24:37,080 --> 00:24:38,957
+No, I...
+
+224
+00:25:12,720 --> 00:25:14,073
+He's gone.
+
+225
+00:25:17,800 --> 00:25:19,916
+Hey, Flynn. How's tricks?
+
+226
+00:25:20,080 --> 00:25:23,038
+- How's what?
+- Tricks. It's an expression.
+
+227
+00:25:23,200 --> 00:25:24,838
+How are you?
+
+228
+00:25:25,000 --> 00:25:28,072
+Why you gotta treat him like this?
+
+229
+00:25:28,240 --> 00:25:29,673
+Why you gotta be like this?
+
+230
+00:25:29,840 --> 00:25:34,197
+- Why can't you just talk even?
+- Hey, hey, hey. Cool down, okay?
+
+231
+00:25:45,880 --> 00:25:48,314
+Out of the mouths of babes, huh?
+
+232
+00:25:52,840 --> 00:25:54,956
+You know, try not to hold it
+against him.
+
+233
+00:25:55,120 --> 00:26:00,558
+You know, I mean, the poor kid,
+he's probably just dying of curiosity.
+
+234
+00:26:00,720 --> 00:26:05,840
+You know, and I guess
+it would be natural for him to wonder.
+
+235
+00:26:06,000 --> 00:26:09,470
+He's probably wondering, "What is it
+that could have gone so wrong...
+
+236
+00:26:09,640 --> 00:26:12,234
+- Marie. Marie.
+...that my mother would leave...?"
+
+237
+00:26:12,400 --> 00:26:14,118
+I can't help you get through this...
+
+238
+00:26:14,280 --> 00:26:17,238
+...you know, if you won't tell me
+what it is that Walt did?
+
+239
+00:26:17,400 --> 00:26:20,790
+Well, you know what, I don't remember
+asking you, all right?
+
+240
+00:26:20,960 --> 00:26:24,270
+So if you wanna be supportive,
+you could be supportive without prying.
+
+241
+00:26:24,440 --> 00:26:26,317
+- That would be really great...
+- "Prying."
+
+242
+00:26:26,480 --> 00:26:30,393
+...and so helpful.
+- Well, prying's a strong word.
+
+243
+00:26:36,680 --> 00:26:40,673
+It's that voice inside your head.
+
+244
+00:26:42,400 --> 00:26:46,473
+It's that sneaky, rat-bastard,
+24<i>l</i>7 voice.
+
+245
+00:26:47,640 --> 00:26:49,119
+You know what I'm talking about.
+
+246
+00:26:49,280 --> 00:26:51,953
+That voice that tells you
+you're not good enough.
+
+247
+00:26:52,240 --> 00:26:55,994
+Not good enough for what?
+Not good enough to be what...
+
+248
+00:26:56,160 --> 00:26:58,276
+...president of the United States?
+
+249
+00:26:59,560 --> 00:27:01,630
+Well, okay,
+so maybe you're not that good.
+
+250
+00:27:02,440 --> 00:27:03,429
+But now...
+
+251
+00:27:03,600 --> 00:27:08,230
+...are you good enough to dese...
+your share of basic human happiness?
+
+252
+00:27:09,000 --> 00:27:13,198
+Are you good enough to be okay
+with who and what you are?
+
+253
+00:27:13,360 --> 00:27:15,510
+I say yes.
+
+254
+00:27:19,520 --> 00:27:21,590
+But it doesn't matter what I say.
+
+255
+00:27:22,080 --> 00:27:24,753
+It's your voice, which means
+you're the one that hears it.
+
+256
+00:27:24,920 --> 00:27:28,799
+Which means you're the only one
+that can fight it, right?
+
+257
+00:27:28,960 --> 00:27:32,635
+Jesse, we never hear from you.
+
+258
+00:27:33,680 --> 00:27:38,390
+What's going on? You can tell me
+I'm full of shit. It's okay, I don't mind.
+
+259
+00:27:38,560 --> 00:27:41,870
+Just come on. Let us in on it.
+
+260
+00:27:48,480 --> 00:27:52,553
+So, like, what makes you the... expert?
+
+261
+00:27:53,560 --> 00:27:55,312
+I don't think I ever said I was that.
+
+262
+00:27:55,480 --> 00:27:58,074
+Yeah, but you're the one
+sitting here, right?
+
+263
+00:27:58,240 --> 00:28:04,793
+Telling us "thus" and "so,... be happy,"
+"forgive yourself," blah, blah, blah.
+
+264
+00:28:05,680 --> 00:28:08,194
+Have you ever really hurt anybody?
+
+265
+00:28:09,040 --> 00:28:13,352
+I don't just mean disappointed
+your mother or whatever...
+
+266
+00:28:13,520 --> 00:28:19,197
+...but did you ever really
+hurt someone?
+
+267
+00:28:21,880 --> 00:28:24,474
+I killed my daughter.
+
+268
+00:28:29,280 --> 00:28:34,479
+It was July 18th,
+which is my birthday.
+
+269
+00:28:34,640 --> 00:28:38,838
+July 18th, 1992.
+
+270
+00:28:39,000 --> 00:28:42,515
+I was high on cocaine
+and I was drunk.
+
+271
+00:28:42,680 --> 00:28:46,798
+Cocaine wasn't an issue. I had bought
+myself two grams as a birthday present.
+
+272
+00:28:46,960 --> 00:28:48,393
+I had plenty left.
+
+273
+00:28:48,560 --> 00:28:51,074
+But I was out of vodka.
+
+274
+00:28:51,240 --> 00:28:53,071
+And this is in Portsmouth, Virginia...
+
+275
+00:28:53,240 --> 00:28:56,391
+...where instead of selling liquor
+in the supermarkets...
+
+276
+00:28:56,560 --> 00:28:58,278
+...they have these ABC stores...
+
+277
+00:28:58,440 --> 00:29:04,151
+...which close at 5 p.m.,
+and right then it was like 4:42.
+
+278
+00:29:04,800 --> 00:29:08,076
+So I'm arguing with my wife.
+
+279
+00:29:08,240 --> 00:29:11,915
+"Come on. Go to the ABC for me,
+it's my birthday.
+
+280
+00:29:12,080 --> 00:29:16,471
+Come on.
+They're not gonna sell it to me".
+
+281
+00:29:17,200 --> 00:29:19,714
+And she's saying "No, no."
+
+282
+00:29:20,800 --> 00:29:25,510
+So I'm pissed. And the clock is ticking,
+so I jump in my truck.
+
+283
+00:29:26,440 --> 00:29:29,989
+She's my 6-year-old daughter.
+
+284
+00:29:31,160 --> 00:29:34,152
+She's playing
+at the... end of the driveway.
+
+285
+00:29:35,440 --> 00:29:37,715
+So...
+
+286
+00:29:43,560 --> 00:29:46,120
+How do you not hate yourself?
+
+287
+00:29:46,920 --> 00:29:50,196
+I did hate myself for a long time.
+
+288
+00:29:51,240 --> 00:29:55,119
+But it didn't stop me
+from drinking and getting high.
+
+289
+00:29:55,280 --> 00:29:57,874
+It just made it that much worse.
+
+290
+00:29:59,880 --> 00:30:04,271
+Self-hatred, guilt,
+it accomplishes nothing.
+
+291
+00:30:04,440 --> 00:30:07,000
+It just stands in the way.
+
+292
+00:30:07,960 --> 00:30:10,155
+Stands in the way of what?
+
+293
+00:30:10,880 --> 00:30:12,632
+True change.
+
+294
+00:30:41,840 --> 00:30:43,512
+Skyler.
+
+295
+00:30:44,000 --> 00:30:45,797
+Is this a good time to talk?
+
+296
+00:30:46,920 --> 00:30:49,434
+Yeah. Come in. Please.
+
+297
+00:30:54,920 --> 00:30:56,717
+Skyler.
+
+298
+00:31:16,080 --> 00:31:18,275
+Do you wanna start?
+
+299
+00:31:27,480 --> 00:31:29,072
+Okay.
+
+300
+00:31:48,360 --> 00:31:52,353
+Why are you doing this?
+Why are you even thinking this way?
+
+301
+00:31:52,520 --> 00:31:56,433
+- Is it to punish me?
+- I am not punishing you, Walt.
+
+302
+00:31:56,600 --> 00:32:01,674
+This is punitive, is what this is.
+We are happily married.
+
+303
+00:32:02,400 --> 00:32:07,599
+I am happily married. I am happy.
+We're just...
+
+304
+00:32:13,320 --> 00:32:19,190
+I love you, Skyler.
+And I would do anything for you.
+
+305
+00:32:21,120 --> 00:32:26,399
+Would you even consider...?
+I mean, Jesus!
+
+306
+00:32:26,560 --> 00:32:29,870
+You come in here and you wave
+these papers in my face...
+
+307
+00:32:30,040 --> 00:32:34,875
+...when there's a whole other,
+entire side to this thing.
+
+308
+00:32:35,040 --> 00:32:38,874
+There's your side and there's my side,
+and you haven't heard my side yet.
+
+309
+00:32:39,040 --> 00:32:40,712
+You haven't heard any of it at all.
+
+310
+00:32:40,880 --> 00:32:42,950
+You're a drug dealer.
+
+311
+00:32:46,760 --> 00:32:50,833
+No. What...? How...? What?
+
+312
+00:32:59,920 --> 00:33:01,672
+Yeah.
+
+313
+00:33:03,360 --> 00:33:06,830
+How else could you possibly
+make that kind of money?
+
+314
+00:33:10,480 --> 00:33:15,429
+Marijuana. That Pinkman kid.
+
+315
+00:33:22,840 --> 00:33:24,273
+No?
+
+316
+00:33:26,680 --> 00:33:29,274
+Oh, my God, Walt.
+
+317
+00:33:31,480 --> 00:33:32,993
+Cocaine?
+
+318
+00:33:36,840 --> 00:33:38,592
+It's methamphetamine.
+
+319
+00:33:41,280 --> 00:33:45,637
+But I'm a manufacturer,
+I'm not a dealer...
+
+320
+00:33:47,680 --> 00:33:49,875
+...per se.
+
+321
+00:33:50,040 --> 00:33:53,510
+It doesn't mean... No, Skyler!
+
+322
+00:33:54,160 --> 00:33:56,151
+- Listen to me. Skyler, listen...
+- No, no!
+
+323
+00:33:56,320 --> 00:33:59,596
+There are a lot of angles to this, okay?
+It's complicated, all right?
+
+324
+00:33:59,760 --> 00:34:04,550
+So please, let's... Please, let's just
+sit back down and talk it through.
+
+325
+00:34:05,080 --> 00:34:07,389
+I'm gonna make you a deal, Walt.
+
+326
+00:34:07,560 --> 00:34:12,156
+I won't tell Hank and I won't tell
+your children or anybody else.
+
+327
+00:34:12,320 --> 00:34:14,117
+Nobody will hear it from me.
+
+328
+00:34:14,280 --> 00:34:17,909
+But only if you grant me this divorce
+and stay out of our lives.
+
+329
+00:34:18,080 --> 00:34:20,514
+- No, Skyler...
+- I mean it.
+
+330
+00:34:21,080 --> 00:34:24,072
+Now let me the hell out of here
+before I throw up.
+
+331
+00:34:41,040 --> 00:34:42,314
+Bye, Jesse.
+
+332
+00:34:59,000 --> 00:35:01,355
+Your windshield's broken.
+
+333
+00:35:03,880 --> 00:35:05,359
+Yeah.
+
+334
+00:35:11,320 --> 00:35:14,710
+Little friction
+in the marriage right now.
+
+335
+00:35:14,880 --> 00:35:17,713
+Strictly temporary. We're just...
+
+336
+00:35:17,880 --> 00:35:20,030
+We're just taking a little break.
+
+337
+00:35:22,120 --> 00:35:24,588
+That's you, over there.
+
+338
+00:35:26,360 --> 00:35:29,272
+Listen, money.
+
+339
+00:35:29,680 --> 00:35:32,717
+Saul has got it for you,
+so as soon as you're feeling better...
+
+340
+00:35:32,880 --> 00:35:34,677
+I'm better.
+
+341
+00:35:35,440 --> 00:35:38,830
+You're better? Really?
+
+342
+00:35:39,200 --> 00:35:45,116
+- What, the rehab? It helped?
+- Yeah. I'm done using.
+
+343
+00:35:47,080 --> 00:35:49,196
+That's excellent. That's...
+
+344
+00:35:50,400 --> 00:35:54,951
+That's very good, Jesse.
+Boy, very good.
+
+345
+00:35:56,080 --> 00:36:01,632
+You know,
+in spite of how bad things got...
+
+346
+00:36:01,800 --> 00:36:06,237
+...it really could be looked at
+like a wake-up call for both of us.
+
+347
+00:36:06,400 --> 00:36:11,155
+I mean, you know, just to get our lives
+back together again...
+
+348
+00:36:11,320 --> 00:36:15,313
+...and on the straight and narrow.
+
+349
+00:36:18,400 --> 00:36:20,834
+You been following
+this airplane crash?
+
+350
+00:36:22,520 --> 00:36:23,953
+Yeah.
+
+351
+00:36:24,720 --> 00:36:28,713
+You know it was Jane's dad who
+accidentally crashed them together...
+
+352
+00:36:29,240 --> 00:36:30,878
+...because he was so torn up?
+
+353
+00:36:31,040 --> 00:36:34,112
+Okay, look, let me stop you
+right there, all right?
+
+354
+00:36:34,680 --> 00:36:36,716
+You are not responsible for this.
+
+355
+00:36:36,880 --> 00:36:39,917
+Not in any way, shape or form,
+all right?
+
+356
+00:36:40,080 --> 00:36:44,312
+Now, I am very up-to-date on this thing,
+probably far more than you are...
+
+357
+00:36:44,480 --> 00:36:48,234
+...and there are many factors
+at play there.
+
+358
+00:36:48,400 --> 00:36:49,799
+Yeah?
+
+359
+00:36:49,960 --> 00:36:54,954
+For instance, there's some sort of
+collision radar on the jet...
+
+360
+00:36:55,120 --> 00:36:56,792
+...that may not have been working.
+
+361
+00:36:56,960 --> 00:36:59,030
+That's public record.
+You can look that up.
+
+362
+00:36:59,200 --> 00:37:02,670
+And the whole system
+is run on 1960s technology.
+
+363
+00:37:02,840 --> 00:37:04,068
+No.
+
+364
+00:37:04,840 --> 00:37:09,072
+No, really, I blame the government.
+
+365
+00:37:10,760 --> 00:37:15,470
+You either run from things
+or you face them, Mr. White.
+
+366
+00:37:15,640 --> 00:37:19,394
+- What exactly does that mean?
+- I learned it in rehab.
+
+367
+00:37:20,960 --> 00:37:23,952
+It's all about accepting
+who you really are.
+
+368
+00:37:25,080 --> 00:37:26,957
+I accept who I am.
+
+369
+00:37:27,120 --> 00:37:28,348
+And who are you?
+
+370
+00:37:30,080 --> 00:37:32,036
+I'm the bad guy.
+
+371
+00:37:49,280 --> 00:37:51,191
+Here's some napkins for you.
+
+372
+00:37:51,880 --> 00:37:53,279
+Enjoy.
+
+373
+00:37:56,960 --> 00:38:00,350
+- Is the food to your satisfaction?
+- Very much.
+
+374
+00:38:00,880 --> 00:38:02,950
+It's good to see you again.
+
+375
+00:38:06,160 --> 00:38:07,991
+- May I?
+- Please.
+
+376
+00:38:13,480 --> 00:38:16,790
+I have an offer that I think
+will be of interest to you.
+
+377
+00:38:18,840 --> 00:38:23,356
+I actually am not here to...
+
+378
+00:38:25,680 --> 00:38:31,357
+I'm here because I owe you
+the courtesy and respect...
+
+379
+00:38:31,520 --> 00:38:33,954
+...to tell you this personally.
+
+380
+00:38:36,240 --> 00:38:37,673
+I'm done.
+
+381
+00:38:39,520 --> 00:38:42,557
+It has nothing to do
+with you personally.
+
+382
+00:38:43,520 --> 00:38:45,715
+I find you
+extraordinarily professional...
+
+383
+00:38:45,880 --> 00:38:48,110
+...and I appreciate
+the way you do business.
+
+384
+00:38:48,600 --> 00:38:53,594
+I'm just making a change in my life,
+is what it is.
+
+385
+00:38:53,760 --> 00:38:59,118
+And I'm...
+I'm at something of a crossroads...
+
+386
+00:39:00,080 --> 00:39:04,756
+...and it's brought me
+to a realization.
+
+387
+00:39:07,000 --> 00:39:09,434
+I am not a criminal.
+
+388
+00:39:11,720 --> 00:39:14,154
+No offence to any people who are...
+
+389
+00:39:18,760 --> 00:39:20,796
+...but this is not me.
+
+390
+00:39:23,120 --> 00:39:25,839
+I'd like you to hear my offer,
+notwithstanding.
+
+391
+00:39:27,600 --> 00:39:29,909
+It won't change my mind, I'm sorry.
+
+392
+00:39:30,080 --> 00:39:34,153
+Three million dollars
+for three months of your time.
+
+393
+00:39:36,880 --> 00:39:40,031
+Three months, then out.
+
+394
+00:39:45,520 --> 00:39:47,590
+Three million?
+
+395
+00:39:49,600 --> 00:39:52,797
+May I take this as a "yes"?
+
+396
+00:40:01,000 --> 00:40:05,630
+I have money. I have more money
+than I know how to spend.
+
+397
+00:40:06,600 --> 00:40:10,195
+What I don't have is my family.
+
+398
+00:40:11,640 --> 00:40:14,313
+The answer is still no.
+
+399
+00:40:20,040 --> 00:40:22,031
+Enjoy your meal.
+
+400
+00:40:27,800 --> 00:40:29,313
+Thank you.
+
+401
+00:41:01,080 --> 00:41:02,229
+That's it!
+
+402
+00:41:02,920 --> 00:41:04,194
+Did you feel it?
+
+403
+00:41:05,480 --> 00:41:06,754
+Texas!
+
+404
+00:41:07,520 --> 00:41:09,112
+I've made this trip three times...
+
+405
+00:41:09,800 --> 00:41:12,075
+...and every time
+there's three big bumps...
+
+406
+00:41:12,240 --> 00:41:13,798
+...and that's how you know!
+
+407
+00:41:13,960 --> 00:41:16,269
+We are officially in Texas!
+
+408
+00:41:23,160 --> 00:41:25,230
+This time I got a job waiting for me.
+
+409
+00:41:25,440 --> 00:41:29,353
+I got a cousin who's got a body shop.
+
+410
+00:41:29,560 --> 00:41:30,913
+Yo, that's for me, homes!
+
+411
+00:41:32,280 --> 00:41:35,829
+They call me".Olive Oil" because
+I paint them slick.
+
+412
+00:41:36,040 --> 00:41:41,478
+I do pearlescent, colour-shift,
+you name it.
+
+413
+00:41:43,280 --> 00:41:45,077
+I painted cars for some of...
+
+414
+00:41:45,240 --> 00:41:47,515
+...the biggest gangsters in Michoacán.
+
+415
+00:41:50,240 --> 00:41:51,673
+Wow, those are beautiful boots!
+
+416
+00:41:53,720 --> 00:41:55,915
+Not much good for working, but...
+
+417
+00:41:56,480 --> 00:41:59,392
+Hey, what's on the toes there?
+Little silver...
+
+418
+00:42:28,960 --> 00:42:31,394
+What the hell's going on in there?
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>
