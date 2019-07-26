@@ -1,0 +1,1 @@
+Python notebook for the post "Visualizing data from Norwegian Wood by Haruki Murakami" available [here](https://medium.com/@finalfire/visualizing-data-from-norwegian-wood-by-haruki-murakami-502e117fdcc6).
