@@ -4,10 +4,6 @@ Basic python notebook to count the number of unique words and calculate the Lexi
 
 #Pre-Requisites
 1. Install Depedenct modules
-   - matlaplotlib
-   - pandas
-   - numpy
-   - scipy
    - nltk
-   - textblob
    - vaderSentiment
+   - re
