@@ -1,3 +1,13 @@
-# Analyzing the shoulders of giants
+# To count the Richness of novel
 
-This is the GitHub page for a series of interesting analysis on TV series and various stuff.
+Basic python notebook to count the number of unique words and calculate the Lexical richness of the authors writing.
+
+#Pre-Requisites
+1. Install Depedenct modules
+   - matlaplotlib
+   - pandas
+   - numpy
+   - scipy
+   - nltk
+   - textblob
+   - vaderSentiment
